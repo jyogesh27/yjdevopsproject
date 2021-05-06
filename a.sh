@@ -4,3 +4,7 @@ Awesome
 The second change in fil
 
 line is added here 
+
+partial changes
+
+after stash changes
