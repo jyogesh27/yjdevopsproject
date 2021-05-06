@@ -8,6 +8,10 @@ line is added here
 
 partial changes
 
-after stash changes
+er stash changes
 
 somone else modified
+first stash
+
+
+
