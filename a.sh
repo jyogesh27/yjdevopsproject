@@ -1,5 +1,6 @@
 This is my first git repo via terminal of it
-sd
+asdf
+asd
 Awesome
 The second change in fil
 
@@ -8,3 +9,5 @@ line is added here
 partial changes
 
 after stash changes
+
+somone else modified
