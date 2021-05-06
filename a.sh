@@ -8,10 +8,15 @@ line is added here
 
 partial changes
 
+<<<<<<< Updated upstream
 er stash changes
 
 somone else modified
 first stash
 
 changes made at last
+=======
+first stash
+
+>>>>>>> Stashed changes
 
